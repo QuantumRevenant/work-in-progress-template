@@ -1,3 +1,5 @@
+![PREVIEW](./assets/Preview.png)
+
 # Work-in-Progress Template 🚧
 
 A minimalist and responsive HTML template for websites under construction.It includes:
@@ -51,7 +53,7 @@ See the [LICENSE](LICENSE) file for details.
 
 If you'd like to suggest improvements or ask questions:
 
-[![X (Formerly Twitter)](https://img.shields.io/badge/X_(Twitter)%09--%40QuantumRevenant-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/QuantumRevenant)  
+[![X (Formerly Twitter)](https://img.shields.io/badge/X_(Twitter)%09--%40QuantumRevenant-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/QuantumRevenant)
 [![GitHub](https://img.shields.io/badge/GitHub%09--%40QuantumRevenant-%23121011.svg?logo=github&logoColor=white)](https://github.com/QuantumRevenant)
 
 ---
